@@ -1,6 +1,6 @@
 name: pagarme_mpos_flutter
-description: A new flutter plugin project.
-version: 0.0.1
+description: Plugin para utilização da integração de pagamento via pinpad do Pagarme.
+version: 0.1.0
 author:
 homepage:
 
